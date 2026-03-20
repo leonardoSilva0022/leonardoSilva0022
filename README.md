@@ -4,7 +4,7 @@ Sou um desenvolvedor focado em criar experiências digitais fluidas e eficientes
 
 ## 🚀 Sobre Mim
 - 🎓 Finalista em Ciência da Computação.
-- 📱 Especialista em Android nativo com **Kotlin**.
+- 📱 Android nativo com **Kotlin**.
 - 🎨 Focado em UI/UX interativo com **GSAP** e **Lucide Icons**.
 - 🌐 Desenvolvimento Web com **JavaScript** e **Tailwind CSS**.
 - 🐍 Automação e lógica com **Python**.
