@@ -32,4 +32,4 @@ Sou um desenvolvedor focado em criar experiências digitais fluidas e eficientes
 ---
 
 ## 📈 GitHub Stats
-![Status do GitHub][![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+![Status do GitHub](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
