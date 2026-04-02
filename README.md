@@ -32,4 +32,4 @@ Sou um desenvolvedor focado em criar experiências digitais fluidas e eficientes
 ---
 
 ## 📈 GitHub Stats
-![Status do GitHub](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Pranesh-2005&langs_count=8)
