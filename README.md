@@ -32,4 +32,4 @@ Sou um desenvolvedor focado em criar experiências digitais fluidas e eficientes
 ---
 
 ## 📈 GitHub Stats
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Pranesh-2005&exclude_repo=github-readme-stats,Pranesh-2005.github.io)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Pranesh-2005&layout=compact)
